@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: purple;
+    background-color: rgb(136, 81, 136);
     text-align: center;
     margin: 0;
     padding: 40px;
 }
 
 .container {
-    background: purple;
+    background: rgb(64, 132, 151);
     max-width: 800px;
     margin: auto;
 }
