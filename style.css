@@ -1,19 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(136, 81, 136);
+    background-color: rgb(160, 189, 247);
     text-align: center;
     margin: 0;
     padding: 40px;
 }
 
 .container {
-    background: rgb(64, 132, 151);
+    background: rgb(148, 228, 251);
     max-width: 800px;
     margin: auto;
 }
 
 h1 {
-    color: #333;
+    color: #1a0202;
 }
 
 button {
